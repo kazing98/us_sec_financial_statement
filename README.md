@@ -7,6 +7,7 @@ This repository contains code and a Jupyter notebook to load, process, and compu
 - `main.ipynb` — Notebook that loads the dataset, filters revenue tags, normalizes columns and computes KPIs.
 - `data/sic_mapping.csv` — SIC-to-industry mapping used to derive `industry` values.
 - `kdata/Dataset/...` — Quarterly dataset folders (`2022q1`, `2022q2`, ...).
+- Dataset details can be found [here](https://kazing98.github.io/us_sec_financial_statement/readme.htm)
 
 **Quick start**
 
