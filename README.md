@@ -8,6 +8,8 @@ This repository contains code and a Jupyter notebook to load, process, and compu
 - `data/sic_mapping.csv` — SIC-to-industry mapping used to derive `industry` values.
 - `kdata/Dataset/...` — Quarterly dataset folders (`2022q1`, `2022q2`, ...).
 - Dataset details can be found [here](https://kazing98.github.io/us_sec_financial_statement/readme.htm)
+- SIC mappings were taken from [here](https://www.sec.gov/search-filings/standard-industrial-classification-sic-code-list) for Industry mapping code.
+- SEC Financial Statement Datasets were taken from [here](https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets) for Year 2021 till 2024 which were then uploaded to [kaggle](https://www.kaggle.com/datasets/rohanpanda80/us-sec-financial-statement-2021-2024).
 
 **Quick start**
 
